@@ -1,2 +1,2 @@
 # imt2200_actividad1
-Edite este archivo agregando información útil para quien lo revise.
+Como también puse en el README.md inicial, realizé la actividad, en donde la realizé sin problemas, además como adición también le cambié el color al gráfico ya que no se me ocurrió que otra cosa hacer, podría hacer tipo un for con todos los colores posibles para el gráfico con un for a una lista, pero honestamente preferí dejarlo ahí ya que no pensé que fuera necesario para lograr la nota máxima.
